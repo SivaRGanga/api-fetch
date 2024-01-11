@@ -1,0 +1,12 @@
+.card{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: justify;
+    justify-content: space-evenly;
+  }
+  
+  .img{
+    width: 20px;
+  }
